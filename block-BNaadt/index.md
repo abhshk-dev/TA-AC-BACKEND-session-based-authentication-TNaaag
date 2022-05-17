@@ -2,7 +2,7 @@ writeCode
 
 Add flash messages for:-
 
-1. During registration
+1. During  registration
 
 - if email is not unique
 - if password is less than 4 chars
